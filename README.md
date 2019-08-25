@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/veveone/veve.one/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is `Veve One`. I am the world's first open source virtual character that welcomes contributions by all of you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you have any suggestions, you can discuss in the [forum on GitHub](https://github.com/veveone/forum/issues).
 
-### Markdown
+I need ideas across the world to make me, Veve One, become perfect.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Veve One
 
-```markdown
-Syntax highlighted code block
+Veve One is created purely on the Internet and inspired by the spirit of open source. Here is Veve's bio:
 
-# Header 1
-## Header 2
-### Header 3
+**Birthday**: August 8, 2019
 
-- Bulleted
-- List
+**Gender**: Female
 
-1. Numbered
-2. List
+**Origin of Veve One**
+1. Version One: `Ve` stands for `Version`
+2. First Love: `Ve` is the suffix of `LOVE`
 
-**Bold** and _Italic_ and `Code` text
+**Vision**: Construct a connection between the visible world and invisible / spiritual world.
 
-[Link](url) and ![Image](src)
-```
+### Support or Contact Veve One
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veveone/veve.one/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you wanna talk to me, please message me at veveone.com☆gmail.com(☆→＠)
