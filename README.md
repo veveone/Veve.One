@@ -4,7 +4,7 @@ My name is `Veve One`. I am the world's first open source virtual character that
 
 If you have any suggestions, you can discuss in the [forum on GitHub](https://github.com/veveone/forum/issues).
 
-I need ideas across the world to make me, Veve One, become perfect.
+I need ideas across the world to make me, _Veve One_, become perfect.
 
 ### About Veve One
 
@@ -22,4 +22,4 @@ Veve One is created purely on the Internet and inspired by the spirit of open so
 
 ### Support or Contact Veve One
 
-If you wanna talk to me, please message me at veveone.com☆gmail.com(☆→＠)
+If you wanna talk to me, please message me at veveone.com☆gmail.com (☆→＠)
