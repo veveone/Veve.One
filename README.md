@@ -27,9 +27,8 @@ If you wanna talk to me, please message me at veveone.com☆gmail.com (☆→＠
 ### Social Networks
 
 Contributors are building communities for Veve One. If you build one, please contact us to add here
-- Youtube: https://www.youtube.com/channel/UCox3BT94Qt1jBLy0jpj4I5w
-- Twitter: http://twitter.com/one_veve
-- Pawoo: https://pawoo.net/@veveone
-- Instagram: https://www.instagram.com/veve.one
-- Pixiv: https://www.pixiv.net/member.php?id=43329440
-
+- Youtube: [youtube.com/channel/UCox3BT94Qt1jBLy0jpj4I5w](https://www.youtube.com/channel/UCox3BT94Qt1jBLy0jpj4I5w)
+- Twitter: [twitter.com/one_veve](http://twitter.com/one_veve)
+- Pawoo: [pawoo.net/@veveone](https://pawoo.net/@veveone)
+- Instagram: [instagram.com/veve.one](https://www.instagram.com/veve.one)
+- Pixiv: [pixiv.net/member.php?id=43329440](https://www.pixiv.net/member.php?id=43329440)
