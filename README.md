@@ -19,6 +19,7 @@ Veve One is created purely on the Internet and inspired by the spirit of open so
 2. First Love: `Ve` is the suffix of `LOVE`
 
 **Vision**: Construct a connection between the visible world and invisible / spiritual world.
+
 **Slogan**: One Veve, One World!
 
 ### Support or Contact Veve One
